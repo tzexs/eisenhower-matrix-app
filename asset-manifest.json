@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/api/v1/static/css/main.0704ff67.css",
-    "main.js": "/api/v1/static/js/main.deab1a2a.js",
-    "static/js/453.4f434e2b.chunk.js": "/api/v1/static/js/453.4f434e2b.chunk.js",
-    "index.html": "/api/v1/index.html",
-    "main.0704ff67.css.map": "/api/v1/static/css/main.0704ff67.css.map",
-    "main.deab1a2a.js.map": "/api/v1/static/js/main.deab1a2a.js.map",
-    "453.4f434e2b.chunk.js.map": "/api/v1/static/js/453.4f434e2b.chunk.js.map"
+    "main.css": "/eisenhower-matrix-app/static/css/main.0704ff67.css",
+    "main.js": "/eisenhower-matrix-app/static/js/main.b74ef276.js",
+    "static/js/453.4f434e2b.chunk.js": "/eisenhower-matrix-app/static/js/453.4f434e2b.chunk.js",
+    "index.html": "/eisenhower-matrix-app/index.html",
+    "main.0704ff67.css.map": "/eisenhower-matrix-app/static/css/main.0704ff67.css.map",
+    "main.b74ef276.js.map": "/eisenhower-matrix-app/static/js/main.b74ef276.js.map",
+    "453.4f434e2b.chunk.js.map": "/eisenhower-matrix-app/static/js/453.4f434e2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0704ff67.css",
-    "static/js/main.deab1a2a.js"
+    "static/js/main.b74ef276.js"
   ]
 }
