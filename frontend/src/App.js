@@ -43,7 +43,7 @@ const quadrantKeyMapping = {
   [TEXTS.QUADRANT_DELETE]: "not_urgent_not_important",
 };
 
-const API_BASE_URL = "https://8000-io2m3it5cy93w7r303rkl-092dd6d3.manusvm.computer/api/v1"; // Backend API URL
+const API_BASE_URL = "https://eisenhower-matrix-backend-a4585b813280.herokuapp.com/api/v1"; // Backend API URL
 const POLLING_INTERVAL = 5000; // 5 seconds
 
 function App() {
