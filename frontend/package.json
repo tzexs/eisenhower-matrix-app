@@ -2,7 +2,7 @@
   "name": "eisenhower-matrix-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://petscreening.github.io/eisenhower-matrix-platform",
+  "homepage": "https://petscreeninginc.github.io/eisenhower-matrix-platform",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
